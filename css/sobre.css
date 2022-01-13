@@ -46,3 +46,7 @@ figcaption {
 figure img {
     width: 100%;
 }
+
+.subtitulo-contato {
+    font: bold;
+}
