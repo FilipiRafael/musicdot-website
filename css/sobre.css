@@ -47,6 +47,11 @@ figure img {
     width: 100%;
 }
 
-.subtitulo-contato {
-    font: bold;
+.contato__subtitulo {
+    display: inline;
+}
+
+.contato__info {
+    margin: 16px 0 24px;
+    padding-left: 0px;
 }
